@@ -17,7 +17,7 @@
     "rxjs": "^6.6.6"
   },
   "devDependencies": {
-    "@babel/plugin-proposal-decorators": "^7.13.5",
+    "@babel/plugin-proposal-decorators": "^7.13.15",
     "@types/node": "^14.14.36",
     "@types/react": "^17.0.3",
     "reflect-metadata": "^0.1.13",
